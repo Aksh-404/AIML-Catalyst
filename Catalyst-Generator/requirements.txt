@@ -1,0 +1,9 @@
+```txt
+torch
+torch_geometric
+rdkit
+selfies
+pandas
+scikit-learn
+tqdm
+```
